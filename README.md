@@ -8,7 +8,7 @@ This algorithm is implemented in Python based on [this](https://github.com/kshir
 
 #### To run the script, follow these instructions
 
-##### Execute the following command in a terminal
+#### Execute the following command in a terminal
 
 `python MSApriori.py`
 
